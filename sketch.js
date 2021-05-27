@@ -13,7 +13,7 @@ var divisions = [];
 var divisionHeight = 300;
 
 function preload(){
- groundimg = loadImage("iceback.jpg");
+ groundimg = loadImage(gd.jpg");
 }
 function setup() { 
   createCanvas(480,800);
